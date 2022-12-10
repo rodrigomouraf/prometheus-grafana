@@ -1,0 +1,17 @@
+{
+	"ulid": "01GKWNC2014V718AWX5GA9YZCV",
+	"minTime": 1670537850071,
+	"maxTime": 1670544000000,
+	"stats": {
+		"numSamples": 1682,
+		"numSeries": 627,
+		"numChunks": 627
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01GKWNC2014V718AWX5GA9YZCV"
+		]
+	},
+	"version": 1
+}
